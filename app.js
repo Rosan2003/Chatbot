@@ -1,4 +1,4 @@
-/*const API_KEY = 'sk-proj-wFci82CZT3ZNG7AmJvODT3BlbkFJunFIbU2qLIK0LImph27b';
+/*const API_KEY = 'YOUR KEY';*/
 const sendBtn = document.querySelector('#send');
 const Output = document.querySelector('#output');
 const Input = document.querySelector('input');
